@@ -1,2 +1,2 @@
 # ejemplos-larioja
-Pruieba
+Prueba
